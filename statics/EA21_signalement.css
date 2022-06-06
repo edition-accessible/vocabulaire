@@ -1,17 +1,12 @@
 /* Minimal set for demonstration use. */
 
-.fichelivre {
-	padding-left: 0px;
-}
-
-section {display: block;}
+article section {display: block;}
 
 .img {width: 200px;}
 .center {text-align: center;}
 .img30 {width: 30px;}
-.facet-multiselect-checkbox {
-	list-style-type: none;
-}
+.facet-multiselect-checkbox {list-style-type: none;}
+
 details {
     border: 1px solid #aaa;
     border-radius: 4px;
@@ -100,9 +95,10 @@ h1{
 }
 
 /** nav **/
-#navigation{
+navigation{
 	margin-top:1em;
  text-align: center;
+ display: block;
 }
 #navigation ul{
 	padding:0;
@@ -111,10 +107,7 @@ h1{
 }
 
 @media screen and (min-width:65em){
-	
-.fichelivre {
-	padding-left: 250px;
-}
+
 
 	#navigation{
 		min-width:27.88%;
