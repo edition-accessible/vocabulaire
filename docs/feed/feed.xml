@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Vocabulaire du livre numérique accessible</title>
+	<subtitle>Comment exprimer les fonctionnalitès d&#39;accessibilité du livre numérique</subtitle>
+	
+	<link href="/vocabulaire/feed/feed.xml" rel="self"/>
+	<link href="/"/>
+	<updated>2022-07-01T00:00:00Z</updated>
+	<id>/</id>
+	<author>
+		<name>EDRLab</name>
+		<email>vocabulaire@edrlab.org</email>
+	</author>
+	
+	<entry>
+		<title>Quel livre numérique répond à vos besoins ?</title>
+		<link href="/vocabulaire/posts/enqueteJuin2022/"/>
+		<updated>2022-07-01T00:00:00Z</updated>
+		<id>/vocabulaire/posts/enqueteJuin2022/</id>
+		<content type="html">&lt;p&gt;En juin 2022, EDRLab en partenariat avec l’association ALIRE et le Syndicat de la Librairie Française a publié une enquête destinée à évaluer les formulations et le vocabulaire à utiliser pour décrire le niveau d&#39;accessibilité des livres numériques et les fonctionalités qui permettent l&#39;accès à la lecture pour les personnes en situation de handicap. À destination du grand public, cette enquête a été relayée par &lt;a href=&quot;http://epagine.fr&quot;&gt;epagine.fr&lt;/a&gt; et &lt;a href=&quot;http://leslibraires.fr&quot;&gt;leslibraires.fr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;221 réponses ont été collectées, merci à toutes les personnes qui ont répondu. Cette page donne un résumé des réponses obtenues. Nous n&#39;avons retenu que les réponses supérieure à 5%.&lt;/p&gt;
+&lt;article id=&quot;accessModeTextual&quot;&gt;
+&lt;h2&gt;Lecture non visuelle&lt;/h2&gt;
+&lt;p&gt;Vous activez la fonction lecture audio de votre liseuse. Le livre contient une image. La voix lit une description de l’image. Vous profitez du livre dans son intégralité.&lt;/p&gt;
+&lt;h3&gt;Réponses&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;73.5 % : Texte et images disponibles en vocal.&lt;/li&gt;
+&lt;li&gt;9.1 % : Compatible avec les technologies d’assistance.&lt;/li&gt;
+&lt;li&gt;7.3 % : Integralement vocalisable.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur la lecture non visuelle&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Définition : le contenu du livre numérique est intégralement consultable en texte, les autres médias nécessaires à la compréhension sont décrits ou disposent d’une alternative textuelle.&lt;/li&gt;
+	&lt;li&gt;Exemple :
+	&lt;div class=&quot;ckeditor-html5-video&quot; style=&quot;text-align: center;&quot;&gt;
+	&lt;video controls=&quot;controls&quot; controlslist=&quot;nodownload&quot; src=&quot;statics/thorium-descr-imgs.m4v&quot; width=&quot;480px&quot; aria-describedby=&quot;transcriptionThoriumVocal&quot;&gt;&lt;/video&gt;
+	&lt;/div&gt;&lt;span id=&quot;transcriptionThoriumVocal&quot;&gt;Transcription : la voix de synthése lit le titre puis la description de l&#39;image. Un surlignage jaune permet d&#39;identifier que c&#39;est l&#39;image qui est lue.&lt;/span&gt;.&lt;/li&gt;
+	&lt;li&gt;Précisions : la plupart des publications numériques disponiblesincluent leur contenu en texte numérique et peuvent indiquer qu’elles sont adaptées aux lecteurs d’écran. Les exceptions sont les publications dont une partie du contenu essentiel à la compréhension n’est inclus que dans des images, comme des graphiques, des tableaux ou des équations présentés sous forme d’images, et les publications dont l’apparence fixe est créée par une image de chaque page au lieu d’un texte véritable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/article&gt;&lt;hr /&gt;
+&lt;article&gt;
+&lt;h2 id=&quot;accessModeAuditory&quot;&gt;Livres audio&lt;/h2&gt;
+&lt;p&gt;Vous achetez un livre audio. Après achat vous écoutez le sommaire, le résumé, le temps de lecture et d’autres informations qui apparaissent sur une image de couverture. &lt;/p&gt;
+&lt;h3&gt;Réponses&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;40.4 % : Contenu audio intégral (présentation, index, notes).&lt;/li&gt;
+&lt;li&gt;38,5 % : Audio-description disponible.&lt;/li&gt;
+&lt;li&gt;13.3 % : L&#39;intégralité de l&#39;information est disponible en audio.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur l&#39;accessibilité du livre audio&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple : &lt;img alt=&quot;Capture d&#39;écran d&#39;un dossier contenant des fichiers MP3 et un fichier couverture.mp3&quot; src=&quot;statics/image3.png&quot; /&gt;.&lt;/li&gt;
+&lt;li&gt;Définition : indication que cette publication peut être lue intégralement en mode audio. Cette désignation s’applique même si le texte est également disponible avec l’audio.&lt;/li&gt;
+&lt;li&gt;Précisions : les livres audio présentés sans texte sont considérés comme des publications optimisées. Ils ne répondent pas à toutes les exigences en matière d’accessibilité et ne seront donc pas identifiés lors du filtrage des publications “accessibles”, mais ils donnent accès à la publication à des utilisateurs spécifiques qui ont besoin de l’audio. Le fait de permettre aux utilisateurs d’être autonomes pour chercher dans une collection toutes les publications avec le son intégral aidera ces utilisateurs et le fait d’inclure cette information dans les métadonnées affichées alertera également les utilisateurs pour lesquels le son est inaccessible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/article&gt;&lt;hr /&gt;
+&lt;article&gt;
+&lt;h2 id=&quot;displayTransformability&quot;&gt; Modifier l&#39;aspect&lt;/h2&gt;
+&lt;p&gt;Cas d&#39;usage : lorsque vous lisez, vous souhaitez pouvoir modifier la taille des caractères ainsi que les espacements pour rendre la lectureconfortable en fonction de votre matériel ou des conditions.&lt;/p&gt;
+&lt;h3&gt;Réponses&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;54.1 % : Affichage adaptable.&lt;/li&gt;
+&lt;li&gt;29.4 % : Mise en page modifiable.&lt;/li&gt;
+&lt;li&gt;5.5 % : Mise en page adaptable à la taille de l&#39;écran.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur les possibilités de mofification de la mise en page&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple : &lt;img alt=&quot;Dans l&#39;interface de Thorium, l&#39;aspect du livre est modifié : le fonc passe en en sépia puis en noir ; la police est grossie puis modifiée, les espacements des lignes sont agrandis.&quot; src=&quot;statics/thorium_adjust_txt.gif&quot; /&gt;.&lt;/li&gt;
+&lt;li&gt;Définition : Lors de sa lecture, la mise en forme du fichier est adaptée aux besoins de l’utilisateur (taille adaptée à l’écran, police, taille de la police, espacements, etc.) en fonction des possibilités du logiciel de lecture.&lt;/li&gt;	&lt;li&gt;Précisions : cela concerne les livres numériques au format EPUB (quand la mise en page n’est pas fixe), Kindle, Books ou HTML.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/article&gt;&lt;hr /&gt;
+&lt;article id=&quot;displayTransformabilityNo&quot;&gt;
+&lt;h2&gt;Conserver l&#39;aspect&lt;/h2&gt;
+&lt;p&gt;Cas d&#39;usage : vous souhaitez disposer d’une représentation exacte de la version papier pour l’imprimer ou parce que vous utilisez le livre numérique en complément d’une édition imprimée.&lt;/p&gt;
+&lt;h3&gt;Réponses&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;47.2 % : Mise en page fixe.&lt;/li&gt;
+&lt;li&gt;13.1 % : Pré paginé.&lt;/li&gt;
+&lt;li&gt;12.1 % : La mise en page n&#39;est pas modifiable.&lt;/li&gt;
+&lt;li&gt;10.7 % : La mise en page ne varie pas avec la taille de l&#39;écran.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur la mise en page fixe&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple : &lt;a href=&quot;https://ressources.sesamath.net/coll_docs/cah/valide/manuel_chapitre_2014_2SP1.pdf&quot;&gt;Une page d&#39;un manuel scolaire dont la mise en page structure fortement la lecture.&lt;/a&gt;&lt;br /&gt;&lt;img alt=&quot;&quot; src=&quot;statics/image6.png&quot; style=&quot;width: 319.71px; height: 502.60px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);&quot; title=&quot;&quot; /&gt;.&lt;/li&gt;
+&lt;li&gt;Définition : Lors de sa lecture, la mise en forme du fichier n’est pas modifiée quelle que soit la taille de l’écran. L’utilisateur ne peut pas modifier la police ou les espacements.&lt;/li&gt;
+&lt;li&gt;Précisions : les mises en page fixes sont par nature difficilement accessibles car elle sne peremttent pas d&#39;ajuster le texte à sa vision ou à son écran. Il ets aussi particuliérement complexe d&#39;assurer leur restitution correcte par une technologie d&#39;assistance comme un lecteur d&#39;écran qui assure la retsitution vocale ou braille. Par ailleurs la pagination de référence de l&#39;original peut-être ajoutée dans un format EPUB ou HTML et rendue disponible via un menu spécifique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/article&gt;&lt;hr /&gt;
+&lt;article id=&quot;disableByDrm&quot;&gt;
+ &lt;h2&gt;Mesure de protection invalidante&lt;/h2&gt;
+ &lt;p&gt;Cas d&#39;usage : l&#39;orsque vous achetez un livre num&amp;eacute;rique, certaines mesures de protection peuvent emp&amp;ecirc;cher l&amp;rsquo;extraction du texte et ainsi rendre le fichier illisible pour une synth&amp;egrave;se vocale ou une technologie d&amp;rsquo;assistance. La mesure de protection peut &amp;eacute;galement &amp;ecirc;tre incompatible avec votre mat&amp;eacute;riel ou logiciel de lecture.
+ &lt;/p&gt;
+&lt;h3&gt;Réponses&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;42.9 % : Ce livre numérique est protégé.&lt;/li&gt;
+&lt;li&gt;12.1 % : Verrou numérique.&lt;/li&gt;
+&lt;li&gt;10.7 % : La mise en page ne varie pas avec la taille de l&#39;écran.&lt;/li&gt;
+&lt;/ol&gt;
+ &lt;details&gt;&lt;summary&gt;En savoir plus sur les difficultées liées aux verrous numériques&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple :&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;statics/image5.png&quot; style=&quot;width: 381.00px; height: 137.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);&quot; title=&quot;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;statics/image1.png&quot; style=&quot;width: 584.00px; height: 240.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);&quot; title=&quot;&quot; /&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;span&gt;D&amp;eacute;finition :&lt;/span&gt;
+&lt;span&gt;&amp;nbsp;les verrous num&amp;eacute;riques, aussi appel&amp;eacute;s DRM (de l&amp;rsquo;anglais Digital Rights Management) ou mesures de protections techniques, sont des mesures de protection pour &amp;eacute;viter ou limiter certains usages non autoris&amp;eacute;s comme l&amp;rsquo;impression, la copie ou le partage des fichiers num&amp;eacute;riques. Ces 
+&lt;a href=&quot;https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Gestion_des_droits_num%25C3%25A9riques%23Les_livres_num%25C3%25A9riques&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1654525991332926&amp;amp;usg=AOvVaw3DjsY4lvyx0sSaR_xELZml&quot;&gt;mesures de protection appliqu&amp;eacute;s aux livres num&amp;eacute;riques&lt;/a&gt; &amp;nbsp;peuvent rendre inop&amp;eacute;rantes des fonctionnalit&amp;eacute;s essentielles &amp;agrave; l&amp;rsquo;accessibilit&amp;eacute;. .&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Pr&amp;eacute;cisions : .&lt;/li&gt;
+&lt;/ul&gt;&lt;/details&gt;
+ &lt;/article&gt;&lt;hr /&gt;
+&lt;article id=&quot;conformsTo&quot;&gt;
+&lt;h2&gt;Conformité aux standards&lt;/h2&gt;
+&lt;p&gt;Cas d&#39;usage : un enseignant ou un prescripteur devant choisir des ouvrages à étudier en classe doit s’assurer que son choix conviendra à tous les élèves ou à toutes les personnes concernées. 
+&lt;/p&gt;
+&lt;h3&gt;Réponses&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;49.5 % : Informations d&#39;accessibilité disponibles (c’est un lien qui permet d’accéder à l’information précise sur les normes respectées).&lt;/li&gt;
+&lt;li&gt;33.6 % : Contenus accessibles conformes aux standards.&lt;/li&gt;
+&lt;li&gt;10.3 % : Conforme aux standards EPUB accessibilité 1.0 &amp; WCAG AA.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur la conformité et les standards&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple : &lt;a href=&quot;https://edition-accessible.github.io/signalement/protoype1/ace-smart-report-fr.html&quot;&gt;un rapport de conformité d&#39;accessibilité EPUB (nouvelle fenêtre)&lt;/a&gt;|&lt;/li&gt;
+&lt;li&gt;Définition : les normes 
+&lt;a href=&quot;https://www.w3.org/Translations/WCAG20-fr/&quot;&gt;Règles pour l&#39;accessibilité des contenus Web (WCAG en anglais)&lt;/a&gt;et &lt;a href=&quot;https://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.htm&quot;&gt;Accessibilité EPUB (&lt;span lang=&quot;en&quot;&gt;Epub Accessibility&lt;/span&gt; en anglais) &lt;/a&gt; offrent un consensus sur les pratiques à mettre en oeuvre pour assurer la meilleur accessibilité possible au plus grand nombre d&#39;utilisateurs. Les créateurs de documents doivent les respecter ainsi que les fabricants de matériel de lecture ou de technologies d&#39;assistance.&lt;/li&gt;
+&lt;li&gt;Précisions : ces normes sont techniques et peuvent-être difficiles à comprendre pour des utilisateurs. .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/article&gt;&lt;hr /&gt;
+&lt;article&gt;&lt;h2&gt;Profils des répondants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;83.5 % des répondants ne sont pas professionnels du livre.&lt;/li&gt;
+&lt;li&gt;73 % n&#39;utilisent jamais les fonctions de vocalisation.&lt;/li&gt;
+&lt;li&gt;70 % n&#39;utilisent pas de technologie d&#39;assistance.&lt;/li&gt;
+&lt;li&gt;25 % n&#39;utilisent jamais de liseuse.&lt;/li&gt;
+&lt;li&gt;13 % utilisent toujours une liseuse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/article&gt;&lt;hr /&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Les fonctionnalitès d&#39;accessibilité du livre numérique</title>
+		<link href="/vocabulaire/posts/fonctions/"/>
+		<updated>2022-06-01T00:00:00Z</updated>
+		<id>/vocabulaire/posts/fonctions/</id>
+		<content type="html">&lt;article id=&quot;accessModeTextual&quot;&gt;
+&lt;h2&gt;Lecture non visuelle : alternatives textuelles et texte vrai&lt;/h2&gt;
+&lt;p&gt;Cas d&#39;usage : lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur la lecture non visuelle&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Définition : le contenu du livre numérique est intégralement consultable en texte, les autres médias nécessaires à la compréhension sont décrits ou disposent d’une alternative textuelle.&lt;/li&gt;
+	&lt;li&gt;Exemple :
+	&lt;div class=&quot;ckeditor-html5-video&quot; style=&quot;text-align: center;&quot;&gt;
+	&lt;video controls=&quot;controls&quot; controlslist=&quot;nodownload&quot; src=&quot;statics/thorium-descr-imgs.m4v&quot; width=&quot;480px&quot; aria-describedby=&quot;transcriptionThoriumVocal&quot;&gt;&lt;/video&gt;
+	&lt;/div&gt;&lt;span id=&quot;transcriptionThoriumVocal&quot;&gt;Transcription : la voix de synthése lit le titre puis la description de l&#39;image. Un surlignage jaune permet d&#39;identifier que c&#39;est l&#39;image qui est lue.&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;Précisions : la plupart des publications numériques disponiblesincluent leur contenu en texte numérique et peuvent indiquer qu’elles sont adaptées aux lecteurs d’écran. Les exceptions sont les publications dont une partie du contenu essentiel à la compréhension n’est inclus que dans des images, comme des graphiques, des tableaux ou des équations présentés sous forme d’images, et les publications dont l’apparence fixe est créée par une image de chaque page au lieu d’un texte véritable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;hr /&gt;
+&lt;/article&gt;
+&lt;article&gt;
+&lt;h2 id=&quot;accessModeAuditory&quot;&gt;Des livres entièrement audio&lt;/h2&gt;
+&lt;p&gt;Cas d&#39;usage : lorsque vous achetez un livre audio vous voulez être sûr que toute l’information est présente sous forme audio, y compris le sommaire, le temps de lecture et d’autres informations qui peuvent être communiquées sur une image de couverture jointe aux fichiers audios.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur l&#39;accessibilité du livre audio&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple : &lt;img alt=&quot;Capture d&#39;écran d&#39;un dossier contenant des fichiers MP3 et un fichier couverture.mp3&quot; src=&quot;statics/image3.png&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;Définition : indication que cette publication peut être lue intégralement en mode audio. Cette désignation s’applique même si le texte est également disponible avec l’audio.&lt;/li&gt;
+&lt;li&gt;Précisions : les livres audio présentés sans texte sont considérés comme des publications optimisées. Ils ne répondent pas à toutes les exigences en matière d’accessibilité et ne seront donc pas identifiés lors du filtrage des publications “accessibles”, mais ils donnent accès à la publication à des utilisateurs spécifiques qui ont besoin de l’audio. Le fait de permettre aux utilisateurs d’être autonomes pour chercher dans une collection toutes les publications avec le son intégral aidera ces utilisateurs et le fait d’inclure cette information dans les métadonnées affichées alertera également les utilisateurs pour lesquels le son est inaccessible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;hr /&gt;
+&lt;/article&gt;
+&lt;article&gt;
+&lt;h2 id=&quot;displayTransformability&quot;&gt; Modifier l&#39;aspect : des ajustements visuels sont possibles&lt;/h2&gt;
+&lt;p&gt;Cas d&#39;usage : lorsque vous lisez, vous souhaitez pouvoir modifier la taille des caractères ainsi que les espacements pour rendre la lectureconfortable en fonction de votre matériel ou des conditions.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur les possibilités de mofification de la mise en page&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple : &lt;img alt=&quot;Dans l&#39;interface de Thorium, l&#39;aspect du livre est modifié : le fonc passe en en sépia puis en noir ; la police est grossie puis modifiée, les espacements des lignes sont agrandis.&quot; src=&quot;statics/thorium_adjust_txt.gif&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;Définition : Lors de sa lecture, la mise en forme du fichier est adaptée aux besoins de l’utilisateur (taille adaptée à l’écran, police, taille de la police, espacements, etc.) en fonction des possibilités du logiciel de lecture.&lt;/li&gt;	&lt;li&gt;Précisions : cela concerne les livres numériques au format EPUB (quand la mise en page n’est pas fixe), Kindle, Books ou HTML.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;hr /&gt;
+&lt;/article&gt;
+&lt;article id=&quot;displayTransformabilityNo&quot;&gt;
+&lt;h2&gt;Conserver l&#39;aspect&lt;/h2&gt;
+&lt;p&gt;Cas d&#39;usage : vous souhaitez disposer d’une représentation exacte de la version papier pour l’imprimer ou parce que vous utilisez le livre numérique en complément d’une édition imprimée.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur la mise en page fixe&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple : &lt;a href=&quot;https://ressources.sesamath.net/coll_docs/cah/valide/manuel_chapitre_2014_2SP1.pdf&quot;&gt;Une page d&#39;un manuel scolaire dont la mise en page structure fortement la lecture.&lt;/a&gt;&lt;br /&gt;&lt;img alt=&quot;&quot; src=&quot;statics/image6.png&quot; style=&quot;width: 319.71px; height: 502.60px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;Définition : Lors de sa lecture, la mise en forme du fichier n’est pas modifiée quelle que soit la taille de l’écran. L’utilisateur ne peut pas modifier la police ou les espacements.&lt;/li&gt;
+&lt;li&gt;Précisions : les mises en page fixes sont par nature difficilement accessibles car elle sne peremttent pas d&#39;ajuster le texte à sa vision ou à son écran. Il ets aussi particuliérement complexe d&#39;assurer leur restitution correcte par une technologie d&#39;assistance comme un lecteur d&#39;écran qui assure la retsitution vocale ou braille. Par ailleurs la pagination de référence de l&#39;original peut-être ajoutée dans un format EPUB ou HTML et rendue disponible via un menu spécifique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;#navigation&quot;&gt;Revenir au menu&lt;/a&gt;&lt;/p&gt;
+&lt;/article&gt;
+&lt;article id=&quot;disableByDrm&quot;&gt;
+ &lt;h2&gt;Pas de mesure de protection invalidante&lt;/h2&gt;
+ &lt;p&gt;Cas d&#39;usage : l&#39;orsque vous achetez un livre num&amp;eacute;rique, certaines mesures de protection peuvent emp&amp;ecirc;cher l&amp;rsquo;extraction du texte et ainsi rendre le fichier illisible pour une synth&amp;egrave;se vocale ou une technologie d&amp;rsquo;assistance. La mesure de protection peut &amp;eacute;galement &amp;ecirc;tre incompatible avec votre mat&amp;eacute;riel ou logiciel de lecture.
+ &lt;/p&gt;
+ &lt;details&gt;&lt;summary&gt;En savoir plus sur les difficultées liées aux verrous numériques&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple :&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;statics/image5.png&quot; style=&quot;width: 381.00px; height: 137.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);&quot; title=&quot;&quot; /&gt;
+&lt;img alt=&quot;&quot; src=&quot;statics/image1.png&quot; style=&quot;width: 584.00px; height: 240.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);&quot; title=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;span&gt;D&amp;eacute;finition :&lt;/span&gt;
+&lt;span&gt;&amp;nbsp;les verrous num&amp;eacute;riques, aussi appel&amp;eacute;s DRM (de l&amp;rsquo;anglais Digital Rights Management) ou mesures de protections techniques, sont des mesures de protection pour &amp;eacute;viter ou limiter certains usages non autoris&amp;eacute;s comme l&amp;rsquo;impression, la copie ou le partage des fichiers num&amp;eacute;riques. Ces 
+&lt;a href=&quot;https://www.google.com/url?q=https://fr.wikipedia.org/wiki/Gestion_des_droits_num%25C3%25A9riques%23Les_livres_num%25C3%25A9riques&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1654525991332926&amp;amp;usg=AOvVaw3DjsY4lvyx0sSaR_xELZml&quot;&gt;mesures de protection appliqu&amp;eacute;s aux livres num&amp;eacute;riques&lt;/a&gt; &amp;nbsp;peuvent rendre inop&amp;eacute;rantes des fonctionnalit&amp;eacute;s essentielles &amp;agrave; l&amp;rsquo;accessibilit&amp;eacute;. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Pr&amp;eacute;cisions : &lt;/li&gt;
+&lt;/ul&gt;&lt;/details&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;#navigation&quot;&gt;Revenir au menu&lt;/a&gt;&lt;/p&gt;
+ &lt;/article&gt;
+&lt;article id=&quot;conformsTo&quot;&gt;
+&lt;h2&gt;Conformité aux standards&lt;/h2&gt;
+&lt;p&gt;Cas d&#39;usage : un enseignant ou un prescripteur devant choisir des ouvrages à étudier en classe doit s’assurer que son choix conviendra à tous les élèves ou à toutes les personnes concernées. 
+&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;En savoir plus sur la conformité et les standards&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemple : &lt;a href=&quot;https://edition-accessible.github.io/signalement/protoype1/ace-smart-report-fr.html&quot;&gt;un rapport de conformité d&#39;accessibilité EPUB (nouvelle fenêtre)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Définition : les normes 
+&lt;a href=&quot;https://www.w3.org/Translations/WCAG20-fr/&quot;&gt;Règles pour l&#39;accessibilité des contenus Web (WCAG en anglais)&lt;/a&gt;et &lt;a href=&quot;https://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.htm&quot;&gt;Accessibilité EPUB (&lt;span lang=&quot;en&quot;&gt;Epub Accessibility&lt;/span&gt; en anglais) &lt;/a&gt; offrent un consensus sur les pratiques à mettre en oeuvre pour assurer la meilleur accessibilité possible au plus grand nombre d&#39;utilisateurs. Les créateurs de documents doivent les respecter ainsi que les fabricants de matériel de lecture ou de technologies d&#39;assistance.&lt;/li&gt;
+&lt;li&gt;Précisions : ces normes sont techniques et peuvent-être difficiles à comprendre pour des utilisateurs. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;hr /&gt;
+&lt;/article&gt;</content>
+	</entry>
+</feed>
