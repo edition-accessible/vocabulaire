@@ -8,7 +8,7 @@ layout: layouts/post.njk
 ---
  
 <article id="accessModeTextual">
-<h2>Lecture non visuelle : alternatives textuelles et texte vrai</h2>
+<h2>Lecture non visuelle</h2>
 <p>Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.</p>
 <details><summary>En savoir plus sur la lecture non visuelle</summary>
 <ul>
@@ -23,7 +23,7 @@ layout: layouts/post.njk
 
 </article>
 <article>
-<h2 id="accessModeAuditory">Des livres entièrement audio</h2>
+<h2 id="accessModeAuditory">Livres audio accessibles</h2>
 <p>Cas d'usage : lorsque vous achetez un livre audio vous voulez être sûr que toute l’information est présente sous forme audio, y compris le sommaire, le temps de lecture et d’autres informations qui peuvent être communiquées sur une image de couverture jointe aux fichiers audios.</p>
 <details><summary>En savoir plus sur l'accessibilité du livre audio</summary>
 <ul>
@@ -35,7 +35,7 @@ layout: layouts/post.njk
 
 </article>
 <article>
-<h2 id="displayTransformability"> Modifier l'aspect : des ajustements visuels sont possibles</h2>
+<h2 id="displayTransformability"> Modifier l'aspect</h2>
 <p>Cas d'usage : lorsque vous lisez, vous souhaitez pouvoir modifier la taille des caractères ainsi que les espacements pour rendre la lectureconfortable en fonction de votre matériel ou des conditions.</p>
 <details><summary>En savoir plus sur les possibilités de mofification de la mise en page</summary>
 <ul>
@@ -58,7 +58,7 @@ layout: layouts/post.njk
 <p><a href="#navigation">Revenir au menu</a></p>
 </article>
 <article id="disableByDrm">
- <h2>Pas de mesure de protection invalidante</h2>
+ <h2>Mesure de protection invalidante</h2>
  <p>Cas d'usage : l'orsque vous achetez un livre num&eacute;rique, certaines mesures de protection peuvent emp&ecirc;cher l&rsquo;extraction du texte et ainsi rendre le fichier illisible pour une synth&egrave;se vocale ou une technologie d&rsquo;assistance. La mesure de protection peut &eacute;galement &ecirc;tre incompatible avec votre mat&eacute;riel ou logiciel de lecture.
  </p>
  <details><summary>En savoir plus sur les difficultées liées aux verrous numériques</summary>
