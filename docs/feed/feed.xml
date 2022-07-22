@@ -24,9 +24,9 @@
 &lt;p&gt;Vous activez la fonction lecture audio de votre liseuse. Le livre contient une image. La voix lit une description de l’image. Vous profitez du livre dans son intégralité.&lt;/p&gt;
 &lt;h3&gt;Réponses&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;73.5 % : Texte et images disponibles en vocal.&lt;/li&gt;
-&lt;li&gt;9.1 % : Compatible avec les technologies d’assistance.&lt;/li&gt;
-&lt;li&gt;7.3 % : Integralement vocalisable.&lt;/li&gt;
+&lt;li&gt;Texte et images disponibles en vocal (73.5 %).&lt;/li&gt;
+&lt;li&gt;Compatible avec les technologies d’assistance (9.1 %).&lt;/li&gt;
+&lt;li&gt;Integralement vocalisable (7.3 %).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;details&gt;&lt;summary&gt;En savoir plus sur la lecture non visuelle&lt;/summary&gt;
 &lt;ul&gt;
@@ -44,9 +44,9 @@
 &lt;p&gt;Vous achetez un livre audio. Après achat vous écoutez le sommaire, le résumé, le temps de lecture et d’autres informations qui apparaissent sur une image de couverture. &lt;/p&gt;
 &lt;h3&gt;Réponses&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;40.4 % : Contenu audio intégral (présentation, index, notes).&lt;/li&gt;
-&lt;li&gt;38,5 % : Audio-description disponible.&lt;/li&gt;
-&lt;li&gt;13.3 % : L&#39;intégralité de l&#39;information est disponible en audio.&lt;/li&gt;
+&lt;li&gt;Contenu audio intégral (présentation, index, notes) (40.4 %).&lt;/li&gt;
+&lt;li&gt;Audio-description disponible (38,5 %).&lt;/li&gt;
+&lt;li&gt;L&#39;intégralité de l&#39;information est disponible en audio (13.3 %).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;details&gt;&lt;summary&gt;En savoir plus sur l&#39;accessibilité du livre audio&lt;/summary&gt;
 &lt;ul&gt;
@@ -61,9 +61,9 @@
 &lt;p&gt;Cas d&#39;usage : lorsque vous lisez, vous souhaitez pouvoir modifier la taille des caractères ainsi que les espacements pour rendre la lectureconfortable en fonction de votre matériel ou des conditions.&lt;/p&gt;
 &lt;h3&gt;Réponses&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;54.1 % : Affichage adaptable.&lt;/li&gt;
-&lt;li&gt;29.4 % : Mise en page modifiable.&lt;/li&gt;
-&lt;li&gt;5.5 % : Mise en page adaptable à la taille de l&#39;écran.&lt;/li&gt;
+&lt;li&gt;Affichage adaptable (54.1 %).&lt;/li&gt;
+&lt;li&gt;Mise en page modifiable (29.4 %).&lt;/li&gt;
+&lt;li&gt;Mise en page adaptable à la taille de l&#39;écran (5.5 %).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;details&gt;&lt;summary&gt;En savoir plus sur les possibilités de mofification de la mise en page&lt;/summary&gt;
 &lt;ul&gt;
@@ -77,10 +77,10 @@
 &lt;p&gt;Cas d&#39;usage : vous souhaitez disposer d’une représentation exacte de la version papier pour l’imprimer ou parce que vous utilisez le livre numérique en complément d’une édition imprimée.&lt;/p&gt;
 &lt;h3&gt;Réponses&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;47.2 % : Mise en page fixe.&lt;/li&gt;
-&lt;li&gt;13.1 % : Pré paginé.&lt;/li&gt;
-&lt;li&gt;12.1 % : La mise en page n&#39;est pas modifiable.&lt;/li&gt;
-&lt;li&gt;10.7 % : La mise en page ne varie pas avec la taille de l&#39;écran.&lt;/li&gt;
+&lt;li&gt;Mise en page fixe (47.2 %).&lt;/li&gt;
+&lt;li&gt;Pré paginé (13.1 %).&lt;/li&gt;
+&lt;li&gt;La mise en page n&#39;est pas modifiable (12.1 %).&lt;/li&gt;
+&lt;li&gt;La mise en page ne varie pas avec la taille de l&#39;écran (10.7 %).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;details&gt;&lt;summary&gt;En savoir plus sur la mise en page fixe&lt;/summary&gt;
 &lt;ul&gt;
@@ -96,9 +96,9 @@
  &lt;/p&gt;
 &lt;h3&gt;Réponses&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;42.9 % : Ce livre numérique est protégé.&lt;/li&gt;
-&lt;li&gt;12.1 % : Verrou numérique.&lt;/li&gt;
-&lt;li&gt;10.7 % : La mise en page ne varie pas avec la taille de l&#39;écran.&lt;/li&gt;
+&lt;li&gt;Ce livre numérique est protégé (42.9 %).&lt;/li&gt;
+&lt;li&gt;Verrou numérique (12.1 %).&lt;/li&gt;
+&lt;li&gt;La mise en page ne varie pas avec la taille de l&#39;écran (10.7 %).&lt;/li&gt;
 &lt;/ol&gt;
  &lt;details&gt;&lt;summary&gt;En savoir plus sur les difficultées liées aux verrous numériques&lt;/summary&gt;
 &lt;ul&gt;
@@ -118,9 +118,9 @@
 &lt;/p&gt;
 &lt;h3&gt;Réponses&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;49.5 % : Informations d&#39;accessibilité disponibles (c’est un lien qui permet d’accéder à l’information précise sur les normes respectées).&lt;/li&gt;
-&lt;li&gt;33.6 % : Contenus accessibles conformes aux standards.&lt;/li&gt;
-&lt;li&gt;10.3 % : Conforme aux standards EPUB accessibilité 1.0 &amp; WCAG AA.&lt;/li&gt;
+&lt;li&gt;Informations d&#39;accessibilité disponibles (c’est un lien qui permet d’accéder à l’information précise sur les normes respectées) (49.5 %).&lt;/li&gt;
+&lt;li&gt;Contenus accessibles conformes aux standards (33.6 %).&lt;/li&gt;
+&lt;li&gt;Conforme aux standards EPUB accessibilité 1.0 &amp; WCAG AA (10.3 %).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;details&gt;&lt;summary&gt;En savoir plus sur la conformité et les standards&lt;/summary&gt;
 &lt;ul&gt;
@@ -149,7 +149,7 @@
 		<updated>2022-06-01T00:00:00Z</updated>
 		<id>/vocabulaire/posts/fonctions/</id>
 		<content type="html">&lt;article id=&quot;accessModeTextual&quot;&gt;
-&lt;h2&gt;Lecture non visuelle : alternatives textuelles et texte vrai&lt;/h2&gt;
+&lt;h2&gt;Lecture non visuelle&lt;/h2&gt;
 &lt;p&gt;Cas d&#39;usage : lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;En savoir plus sur la lecture non visuelle&lt;/summary&gt;
 &lt;ul&gt;
@@ -163,7 +163,7 @@
 &lt;/details&gt;&lt;hr /&gt;
 &lt;/article&gt;
 &lt;article&gt;
-&lt;h2 id=&quot;accessModeAuditory&quot;&gt;Des livres entièrement audio&lt;/h2&gt;
+&lt;h2 id=&quot;accessModeAuditory&quot;&gt;Livres audio accessibles&lt;/h2&gt;
 &lt;p&gt;Cas d&#39;usage : lorsque vous achetez un livre audio vous voulez être sûr que toute l’information est présente sous forme audio, y compris le sommaire, le temps de lecture et d’autres informations qui peuvent être communiquées sur une image de couverture jointe aux fichiers audios.&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;En savoir plus sur l&#39;accessibilité du livre audio&lt;/summary&gt;
 &lt;ul&gt;
@@ -174,7 +174,7 @@
 &lt;/details&gt;&lt;hr /&gt;
 &lt;/article&gt;
 &lt;article&gt;
-&lt;h2 id=&quot;displayTransformability&quot;&gt; Modifier l&#39;aspect : des ajustements visuels sont possibles&lt;/h2&gt;
+&lt;h2 id=&quot;displayTransformability&quot;&gt; Modifier l&#39;aspect&lt;/h2&gt;
 &lt;p&gt;Cas d&#39;usage : lorsque vous lisez, vous souhaitez pouvoir modifier la taille des caractères ainsi que les espacements pour rendre la lectureconfortable en fonction de votre matériel ou des conditions.&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;En savoir plus sur les possibilités de mofification de la mise en page&lt;/summary&gt;
 &lt;ul&gt;
@@ -196,7 +196,7 @@
 &lt;p&gt;&lt;a href=&quot;#navigation&quot;&gt;Revenir au menu&lt;/a&gt;&lt;/p&gt;
 &lt;/article&gt;
 &lt;article id=&quot;disableByDrm&quot;&gt;
- &lt;h2&gt;Pas de mesure de protection invalidante&lt;/h2&gt;
+ &lt;h2&gt;Mesure de protection invalidante&lt;/h2&gt;
  &lt;p&gt;Cas d&#39;usage : l&#39;orsque vous achetez un livre num&amp;eacute;rique, certaines mesures de protection peuvent emp&amp;ecirc;cher l&amp;rsquo;extraction du texte et ainsi rendre le fichier illisible pour une synth&amp;egrave;se vocale ou une technologie d&amp;rsquo;assistance. La mesure de protection peut &amp;eacute;galement &amp;ecirc;tre incompatible avec votre mat&amp;eacute;riel ou logiciel de lecture.
  &lt;/p&gt;
  &lt;details&gt;&lt;summary&gt;En savoir plus sur les difficultées liées aux verrous numériques&lt;/summary&gt;
