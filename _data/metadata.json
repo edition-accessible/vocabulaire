@@ -1,0 +1,21 @@
+{
+  "title": "Vocabulaire du livre numérique accessible",
+  "url": "/",
+  "language": "fr",
+  "description": "Comment exprimer les fonctionnalitès d'accessibilité du livre numérique",
+  "feed": {
+    "subtitle": "Comment exprimer les fonctionnalitès d'accessibilité du livre numérique",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "/feed/feed.json"
+  },
+  "author": {
+    "name": "EDRLab",
+    "email": "vocabulaire@edrlab.org",
+    "url": "/about-me/"
+  }
+}
