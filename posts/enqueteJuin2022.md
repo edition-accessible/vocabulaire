@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-En juin 2022, EDRLab en partenariat avec l’association ALIRE et le Syndicat de la Librairie Française a publié une enquête destinée à évaluer les formulations et le vocabulaire à utiliser pour décrire le niveau d'accessibilité des livres numériques et les fonctionalités qui permettent l'accès à la lecture pour les personnes en situation de handicap. À destination du grand public, cette enquête a été relayée par epagine.fr et leslibraires.fr.
+En juin 2022, EDRLab en partenariat avec l’association ALIRE et le Syndicat de la Librairie Française a publié une enquête destinée à évaluer les formulations et le vocabulaire à utiliser pour décrire le niveau d'accessibilité des livres numériques et les fonctionalités qui permettent l'accès à la lecture pour les personnes en situation de handicap. À destination du grand public, cette enquête a été relayée par epagine.fr, leslibraires.fr et immateriel.fr.
 
 221 réponses ont été collectées, merci à toutes les personnes qui ont répondu. Cette page donne un résumé des réponses obtenues. Nous n'avons retenu que les réponses supérieure à 5%.
 
